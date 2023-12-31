@@ -1,0 +1,16 @@
+2023-12-31 07:33:18,583 INFO c.e.d.c.UserController [main] findByUserName: username - admin
+2023-12-31 07:33:18,615 INFO c.e.d.c.UserController [main] createUser: username - admin
+2023-12-31 07:33:18,617 INFO c.e.d.c.UserController [main] createUser: success - admin
+2023-12-31 07:33:18,620 INFO c.e.d.c.UserController [main] createUser: username - admin
+2023-12-31 07:33:18,620 ERROR c.e.d.c.UserController [main] createUser: error - admin
+2023-12-31 07:33:18,625 INFO c.e.d.c.UserController [main] createUser: username - admin
+2023-12-31 07:33:18,625 ERROR c.e.d.c.UserController [main] createUser: error - admin
+2023-12-31 07:33:18,628 INFO c.e.d.c.UserController [main] findByUserName: username - admin
+2023-12-31 07:47:08,846 INFO c.e.d.c.UserController [main] findByUserName: username - linh
+2023-12-31 07:47:08,875 INFO c.e.d.c.UserController [main] createUser: username - linh
+2023-12-31 07:47:08,880 INFO c.e.d.c.UserController [main] createUser: success - linh
+2023-12-31 07:47:08,883 INFO c.e.d.c.UserController [main] createUser: username - linh
+2023-12-31 07:47:08,883 ERROR c.e.d.c.UserController [main] createUser: error - linh
+2023-12-31 07:47:08,888 INFO c.e.d.c.UserController [main] createUser: username - linh
+2023-12-31 07:47:08,888 ERROR c.e.d.c.UserController [main] createUser: error - linh
+2023-12-31 07:47:08,892 INFO c.e.d.c.UserController [main] findByUserName: username - linh
